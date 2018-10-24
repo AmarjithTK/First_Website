@@ -6,6 +6,10 @@ body {
     position: relative;
 }
 
+.diagonal-gradient {
+  background: linear-gradient(to bottom right, blue, pink);
+}
+
 a {
     color: #e38cb7;
 }
