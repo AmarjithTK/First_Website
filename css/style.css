@@ -6,7 +6,7 @@ body {
 }
 
 .diagonal-gradient {
-  background: linear-gradient(to bottom right, grey, pink);
+  background: linear-gradient(to bottom right, black, pink);
 }
 
 a {
